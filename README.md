@@ -1,5 +1,5 @@
 # 03 - UFCD-0782 - F2 - Ex4
-Este exercício é escrito em C. O exercício não será testado automaticamente.
+Este exercício é escrito em C. 
 
 ### O Exercício
 Escreva um programa em C (MeuNome.c) para imprimir no terminal o seu nome, data de
@@ -16,5 +16,5 @@ Morada : Santo Tirso
 
 
 ### Notas
-- O exercício não será testado automaticamente.
+
 
